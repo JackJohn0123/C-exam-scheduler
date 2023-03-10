@@ -1,6 +1,6 @@
 # C-language-exam-scheduler
 
-OVERVIEW 
+** OVERVIEW ** 
 
 C language program that purposely use only bit-wise operations to speed up the program execution. The program is able to compute thousands of students exam booking in reasonable time, given that the number of possible scheduling conflicts increases as O(n2).
 
@@ -39,7 +39,7 @@ to show the unbooked times within the week.
 
 The program is able to view a student booked exam, and times where a student is free!
 
-RUNNING THE PROGRAM
+** RUNNING THE PROGRAM ** 
 
 You can simply run the exe file or using MinGW by the command prompt with the comand "gcc assignment1.c" and running the exe file that is generated!
 
