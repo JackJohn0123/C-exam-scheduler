@@ -43,6 +43,9 @@ The program is able to view a student booked exam, and times where a student is 
 
 You can simply run the exe file or using MinGW by the command prompt with the comand "gcc assignment1.c" and running the exe file that is generated!
 
+<img src = https://user-images.githubusercontent.com/113872188/225769969-1dfe5e27-f1c5-4bb0-bfba-300eeb08fe37.png>
+
+
 
 
       
